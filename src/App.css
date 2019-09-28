@@ -1,0 +1,35 @@
+.left {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.left img {
+  height: 250px;
+  border-radius: 50%;
+}
+.heading {
+  font-family: monospace;
+  font-size: 50px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.sub-heading {
+  font-family: sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.info {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.email {
+  font-family: fantasy;
+  text-align: center;
+  font-size: 14px;
+}
